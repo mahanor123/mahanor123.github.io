@@ -1,31 +1,25 @@
-## Ravina Kumari                                                                                
-## [LinkedIn](https://www.linkedin.com/in/ravina-kumari-76279616a/)
+## Pooja Mhanor                                                                              
+## [LinkedIn](https://www.linkedin.com/in/pooja-mahanor-9a0021182/)
 ## Bangalore(560099)
-## ravina18@navgurukul.org
-I come from a rural background where mostly girls are not encouraged to study. But my family supported
-me in all steps which I took. After my 12th I got an opportunity to be a part of Navgurukul and now I aspire
-to become a Backend Engineer as I found my interest in technology.
-##### Academic Period Spent in **NavGurukul** So Far   **17 Month**
+## pooja18@navgurukul.org
+I am from Maharashtra in  Middle-class family, my mother is a housewife, however, I aspire to become a Frontend Engineer. I have completed my 12th. Having an interest in web page designing, I felt deeply interested in Frontend Engineering because of my interest in design. I started learning to program in Navgurukul. While learning Javascript at NavGurukul I also pursued a 4 months program in Hyderabad to learn Javascript and React.
+##### Academic Period Spent in **NavGurukul** So Far   **15 Month**
 
-## Projects (Python, Javascript and nodejs)
-### Saral Request API [code](https://github.com/ravinaNG/request_in_python)
-**SARAL** is the eLearning platform of NavGurukul available on saral.navgurukul.org. I used **Request** library in python used for making an HTTP request for accessing the data of Saral.
-### Hangman Game [code](https://github.com/ravinaNG/python/tree/master/python/HangMan)
-Implemented using **Python** to understand and implement best practices in coding.
-Classic Hangman game - guessing letters to prevent the man from hanging.
-### Algorithmic problems in Python [code](https://github.com/ravinaNG/python)
-I have solved basic algorithmic problems and pattern problems from HackerRank and
-code signal and from saral in **Python**.
-### KBC-Game [code](https://github.com/ravinaNG/python/blob/master/List/KBC_Game.py)
-A command line game of KBC for learning purposes using **Python**.
-### Web Scraping [code](https://github.com/ravinaNG/Web-scraping-in-python)
-I have scraped some websites in **Python** like IMDB, NDTV, Paytm etc.
-### Node.js [code](https://github.com/ravinaNG/Nodejs-2)
-I have a basic knowledge of **Node.js** also. In this I have done some logical questions
-like (sorting, pattern questions etc.). I did a little bit of crud and one project of
-sending mail.
-###Angry-Birds Game [code](https://github.com/ravinaNG/Angry-birds)
-I tried creating a version of the popular Angry-birds game using **Node.js**.
+## Projects (Python, Javascript and ReactJs)
+### Facebook_login_page[code](https://github.com/mahanor123/facebook_login_page)
+Implemented using ​ HTML and CSS ​ to understand and implement best practices in coding for making web pages.
+### E-commerce​ [code](https://github.com/mahanor123/E_commerce)
+E-commerce is the activity of buying or selling online. made by React Js.
+### Emoji Search Engine [code](https://github.com/mahanor123/emoji-search-react-filter)
+Helps to find the emoji that’s suit your mood implemented by using ReactJs and JSON. 
+### Imgur [code](https://github.com/mahanor123/imgur)
+An image hosting service allows individuals to upload images to an Internet website. made by React Js.
+### Facebook​_singin_page ​[​code](https://github.com/mahanor123/facebook_singup_page)
+On the Facebook signup page I used CSS also while making Facebook signup page.
+### Python Projects [​code](https://github.com/mahanor123/python_small_project)
+Implemented using Python to understand and implement best practices in coding.KBC a game based on Indian TV series to win points instead of money.
+###Algorithmic problems in Python and Javascript
+I Solved basic algorithmic problems from HackerRank and code signal in and from saral in**Python**.
 
 ## Experience
 ###DISCO at Navgurukul
