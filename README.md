@@ -22,8 +22,7 @@ I am from Maharashtra in  Middle-class family, my mother is a housewife, however
 - ### **Python Projects ([​code](https://github.com/mahanor123/python_small_project))**
   Implemented using Python to understand and implement best practices in coding.KBC a game based on Indian TV series to win points instead of money.
 - ### **Chrome Extension​([code](https://github.com/exponentsoftware/Milestone5--ChromeExtension))**
-  Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behavior to individual needs or preferences.so there I made Notepade ​ Extensions​ .
-Made by javascript.
+  Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behavior to individual needs or preferences.so there I made Notepade ​ Extensions​ .Made by javascript.
 - ### **imdb_clone ([code](https://github.com/mahanor123/imdb_clone))**
   IMDb, in full Internet Movie Database, Web site that provides information about millions of films and television programs as well as their cast and crew. made by reactJs
 - ### **Algorithmic problems in Python and Javascript**
