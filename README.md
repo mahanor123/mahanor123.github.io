@@ -47,6 +47,6 @@ manage the entire campus.
 - ### **School Of Accelerated Learning (SOAL), Hyderabad (Graduated - Dec ‘28)**
   Attended a four months acceleration program to learn Javascript and React.
   
-  In June 2018 completed class 12 with (commerce) from Sun Pharma college Ahmednagar, Maharashtra.
+  ### **In June 2018 completed class 12 with (commerce) from Sun Pharma college Ahmednagar, Maharashtra.**
   
   NavGurukul started by an IIT-D alumnus & Entrepreneurs runs a one-year intense course for academically bright students to learn programming & get high paying jobs. Students learn without a teacher & hence are self-starters and problem-solvers. You not only hire someone talented & loyal but also help in increasing workplace diversity.
