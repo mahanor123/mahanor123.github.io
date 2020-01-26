@@ -9,20 +9,21 @@ I am from Maharashtra in  Middle-class family, my mother is a housewife, however
 ##### Academic Period Spent in **NavGurukul** So Far   **15 Month**
 
 ## Projects (Python, Javascript and ReactJs)
-- ### **Facebook_login_page([code](https://github.com/mahanor123/facebook_login_page))**
-   Implemented using ​ HTML and CSS ​ to understand and implement best practices in coding for making web pages.
+- ### **Recipe finder​ ([code](https://github.com/mahanor123/Recat-recipe-finder))**
+   A recipe/meal plan generator app that helps the user find something to cook and plan weekly meals for their family dinner. It is a recipe finder in which we can search the details of the recipe. made by ReactJs.
 - ### **E-commerce​ ([code](https://github.com/mahanor123/E_commerce))**
-   E-commerce is the activity of buying or selling online. made by React Js.
-- ### **Emoji Search Engine ([code](https://github.com/mahanor123/emoji-search-react-filter))**
+   E-commerce is the activity of buying or selling online. Electronic commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management.
+- ### **Emoji search project ​ ([code](https://github.com/mahanor123/emoji-search-react-filter))**
   Helps to find the emoji that’s suit your mood implemented by using ReactJs and JSON. 
 - ### **Imgur ([code](https://github.com/mahanor123/imgur))**
-  An image hosting service allows individuals to upload images to an Internet website. made by React Js.
-- ### **Facebook​_singin_page (​[​code](https://github.com/mahanor123/facebook_singup_page))**
-  On the Facebook signup page I used CSS also while making Facebook signup page.
+  An image hosting service allows individuals to upload images to an Internet website. The image host will then store the image onto its server,and show the individual different types of code to allow others to view that image.
+- ### **React Todolist (​[​code](https://github.com/mahanor123/React_todolist))**
+  Todo list there we can add the list of any type after some time you can use that list. Made by ReactJs.
 - ### **Python Projects ([​code](https://github.com/mahanor123/python_small_project))**
   Implemented using Python to understand and implement best practices in coding.KBC a game based on Indian TV series to win points instead of money.
-- ### **Recat-recipe-finder([code](https://github.com/mahanor123/Recat-recipe-finder))**
-  In this project we can search any recipe and make by reactjs.
+- ### **Chrome Extension​([code](https://github.com/exponentsoftware/Milestone5--ChromeExtension))**
+  Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behavior to individual needs or preferences.so there I made Notepade ​ Extensions​ .
+Made by javascript.
 - ### **imdb_clone ([code](https://github.com/mahanor123/imdb_clone))**
   IMDb, in full Internet Movie Database, Web site that provides information about millions of films and television programs as well as their cast and crew. made by reactJs
 - ### **Algorithmic problems in Python and Javascript**
@@ -37,10 +38,15 @@ I am from Maharashtra in  Middle-class family, my mother is a housewife, however
   I am playing the role of Treasurer here I managing money and bills on my campus. How to coordinate with others and how to manage money and if there is no money then what we will do all these things i am managing on my campus.I handled the accounts of Navgurukul for one month and learned to use excel sheets and learned to send emails.
 
 ## Education
+- ### **NavGurukul ​ (Graduating ​ )**
+  Attending a one-year residential course to learn Software Engineering and Served as a Coordinator and led student teams to
+manage the entire campus.
 - ### **NavGurukul**
-  Attending a one-year residential course to learn Software Engineering and work on various projects.
+  Learning Software Engineering with a one-year residential Programme and also learning many social & teamwork related skills like scrum methodology and coding all day doing other life skill activities.
 
 - ### **School Of Accelerated Learning (SOAL), Hyderabad (Graduated - Dec ‘28)**
   Attended a four months acceleration program to learn Javascript and React.
+  
+  In June 2018 completed class 12 with (commerce) from Sun Pharma college Ahmednagar, Maharashtra.
   
   NavGurukul started by an IIT-D alumnus & Entrepreneurs runs a one-year intense course for academically bright students to learn programming & get high paying jobs. Students learn without a teacher & hence are self-starters and problem-solvers. You not only hire someone talented & loyal but also help in increasing workplace diversity.
