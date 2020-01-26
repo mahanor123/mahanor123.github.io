@@ -6,19 +6,19 @@ I am from Maharashtra in  Middle-class family, my mother is a housewife, however
 ##### Academic Period Spent in **NavGurukul** So Far   **15 Month**
 
 ## Projects (Python, Javascript and ReactJs)
-### Recipe finder[code](https://github.com/mahanor123/Recat-recipe-finder)
+### Recipe finder [code](https://github.com/mahanor123/Recat-recipe-finder)
 A recipe/meal plan generator app that helps the user find something to cook and plan weekly meals for their family dinner. It is a recipe finder in which we can search the details of the recipe. made by ReactJs.
-### E-commerce​ [code](https://github.com/mahanor123/E_commerce)
+### E-commerce [code](https://github.com/mahanor123/E_commerce)
 E-commerce is the activity of buying or selling online. Electronic commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management.
 ### Emoji search project [code](https://github.com/mahanor123/emoji-search-react-filter)
 Helps to find the emoji that’s suit your mood implemented by using ReactJs and JSON. 
 ### Imgur [code](https://github.com/mahanor123/imgur)
 An image hosting service allows individuals to upload images to an Internet website. The image host will then store the image onto its server,and show the individual different types of code to allow others to view that image.
-### React Todolist​[​code](https://github.com/mahanor123/React_todolist)
+### React Todolist [code](https://github.com/mahanor123/React_todolist)
 Todo list there we can add the list of any type after some time you can use that list. Made by ReactJs.
-### Chrome Extension​[​code](https://github.com/exponentsoftware/Milestone5--ChromeExtension)
+### Chrome Extension [code](https://github.com/exponentsoftware/Milestone5--ChromeExtension)
 Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behavior to individual needs or preferences.so there I made Notepade ​ Extensions​ .Made by javascript.
-### Python Projects [​code](https://github.com/mahanor123/python_small_project)
+### Python Projects [code](https://github.com/mahanor123/python_small_project)
 Implemented using Python to understand and implement best practices in coding.KBC a game based on Indian TV series to win points instead of money.
 
 
