@@ -1,4 +1,4 @@
-## Pooja Mahanor (ReactJs Developer)  
+## Pooja Mahanor (Front-End Developer(ReactJs)  
 Bangalore (560099),
 pooja18@navgurukul.org,
 ([LinkedIn](https://www.linkedin.com/in/pooja-mahanor-9a0021182/)),
