@@ -4,7 +4,7 @@ pooja18@navgurukul.org,
 ([LinkedIn](https://www.linkedin.com/in/pooja-mahanor-9a0021182/)),
 +91 7498843567
 
-I am a self-learned developer and I belong to a Middle-class family, my mother is a housewife, I wish to pursue a career which not only takes care of our financial needs but also makes them proud, however, I aspire to become a Frontend Engineer. I have completed my 12th. Having an interest in web page designing, I felt deeply interested in Frontend Engineering because of my interest in design. I started learning to program in Navgurukul. While learning Javascript at NavGurukul I also pursued a 4 months program in Hyderabad to learn Javascript and React.
+I am a self-learned developer, however, I aspire to become a Frontend Engineer. I have completed my 12th. Having an interest in web page designing, I felt deeply interested in Frontend Engineering because of my interest in design. I belong to a Middle-class family, my mother is a housewife, I wish to pursue a career which not only takes care of our financial needs but also makes them proud, I started learning to program in Navgurukul. While learning Javascript at NavGurukul I also pursued a 4 months program in Hyderabad to learn Javascript and React.
 ## Technical-Skills 
 Python, Javascript, HTML, CSS, ReactJs.
 ## Non-Technical-Skills  
