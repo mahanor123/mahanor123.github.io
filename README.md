@@ -12,22 +12,22 @@ Teamwork, Communication, Cooperation, Time Management, Creativity.
 ##### Academic Period Spent in **NavGurukul** So Far   **15 Month**
 
 ## Projects (Python, Javascript and ReactJs)
-- ### **Recipe finder​ ([code](https://github.com/mahanor123/Recat-recipe-finder))**
+- ### **Recipe finder​ ([code](https://github.com/mahanor123/Recat-recipe-finder))(React.js)**
    A recipe generator app that helps the user find something to cook and plan weekly meals for their family dinner.
-- ### **E-commerce​ ([code](https://github.com/mahanor123/E_commerce))**
+- ### **E-commerce​ ([code](https://github.com/mahanor123/E_commerce))(React.js)**
   E-commerce is the activity of buying or selling online. So I cloned the Flipkart website. I have made one feature in it.
-- ### **Emoji search project ​ ([code](https://github.com/mahanor123/emoji-search-react-filter))**
+- ### **Emoji search project ​ ([code](https://github.com/mahanor123/emoji-search-react-filter))(React.js)**
   Helps to find the emoji that’s suit your mood implemented by using ReactJs and JSON. 
-- ### **Imgur ([code](https://github.com/mahanor123/imgur))**
+- ### **Imgur ([code](https://github.com/mahanor123/imgur))(React.js)**
   An image hosting service allows individuals to upload images to an Internet website. The image host will then store the image onto its server, and show the individual different types of code to allow others to view that image.
-- ### **React Todolist (​[​code](https://github.com/mahanor123/React_todolist))**
+- ### **React Todolist (​[​code](https://github.com/mahanor123/React_todolist))(React.js)**
   A to-do allows you to better manage your time.
-- ### **Python Projects ([​code](https://github.com/mahanor123/python_small_project))**
+- ### **Python Projects ([​code](https://github.com/mahanor123/python_small_project))(Python)**
   Implemented using Python to understand and implement best practices in coding. (KBC game, Hangman game, Rock paper scissors game)
-- ### **Chrome Extension​([code](https://github.com/exponentsoftware/Milestone5--ChromeExtension))**
+- ### **Chrome Extension​([code](https://github.com/exponentsoftware/Milestone5--ChromeExtension))(Javascript)**
   Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome
   functionality and behavior to individual needs or preferences.so there I made Notepade  Extensions.
-- ### **imdb_clone ([code](https://github.com/mahanor123/imdb_clone))**
+- ### **imdb_clone ([code](https://github.com/mahanor123/imdb_clone))(React.js)**
   IMDb, in full Internet Movie Database, Web site that provides information about millions of films and television programs as well as their cast and crew. made by reactJs
 - ### **Algorithmic problems in Python and Javascript**
   I Solved basic algorithmic problems from HackerRank and code signal in and from saral in**Python**.
