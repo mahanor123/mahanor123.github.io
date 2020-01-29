@@ -28,7 +28,7 @@ Teamwork, Communication, Cooperation, Time Management, Creativity.
   Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome
   functionality and behavior to individual needs or preferences.so there I made Notepade  Extensions.
 - ### **imdb_clone ([code](https://github.com/mahanor123/imdb_clone))(React.js)**
-  IMDb, in full Internet Movie Database, Web site that provides information about millions of films and television programs as well as their cast and crew. made by reactJs
+  IMDb, in full Internet Movie Database, Web site that provides information about millions of films and television programs as well as their cast and crew.
 - ### **Algorithmic problems in Python and Javascript**
   I Solved basic algorithmic problems from HackerRank and code signal in and from saral in**Python**.
 
