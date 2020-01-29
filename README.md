@@ -32,7 +32,7 @@ Teamwork, Communication, Cooperation, Time Management, Creativity.
 - ### **Algorithmic problems in Python and Javascript**
   I Solved basic algorithmic problems from HackerRank and code signal in and from saral in**Python**.
 
-## Experience
+## Non-Technical Experience
 - ### **Mentorship**
   I have been selected as a mentor for 2 students in NavGurukul. I got empowered to be capable of taking this opportunity. From this, I have learned how to debug codes that help me in enhancing my knowledge. It helps me in revising my codes too.
 - ### **Tribe Representative at Navgurukul**
