@@ -14,7 +14,7 @@ Teamwork, Communication, Cooperation, Time Management, Creativity.
 ### Recipe finder [code](https://github.com/mahanor123/Recat-recipe-finder)(React.js)
 A recipe generator app that helps the user find something to cook and plan weekly meals for their family dinner.
 ### E-commerce [code](https://github.com/mahanor123/E_commerce)(React.js)
-E-commerce is the activity of buying or selling online. So I cloned the Flipkart website. I have made one feature in it.
+An e-commerce application on which user can select the product from productspage andadd them to cart.
 ### Emoji search project [code](https://github.com/mahanor123/emoji-search-react-filter)(React.js)
 Helps to find the emoji that’s suit your mood implemented by using ReactJs and JSON. 
 ### Imgur [code](https://github.com/mahanor123/imgur)(React.js)
