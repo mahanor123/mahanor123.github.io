@@ -10,7 +10,7 @@ Teamwork, Communication, Cooperation, Time Management, Creativity.
 
 ##### Academic Period Spent in **NavGurukul** So Far   **15 Month**
 
-## Projects (Python, Javascript,HTML ,CSS and ReactJs)
+## Projects (ReactJs HTML CSS Javascript and Python.)
 ### Recipe finder [code](https://github.com/mahanor123/Recat-recipe-finder)(React.js)
 A recipe generator app that helps the user find something to cook and plan weekly meals for their family dinner.
 ### E-commerce [code](https://github.com/mahanor123/E_commerce)(React.js)
