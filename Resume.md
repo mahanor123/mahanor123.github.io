@@ -4,7 +4,7 @@
 ## pooja18@navgurukul.org
 I am a self-learned developer, however, I aspire to become a Frontend Engineer. I have completed my 12th. Having an interest in web page designing, I felt deeply interested in Frontend Engineering because of my interest in design. I belong to a Middle-class family, my mother is a housewife, I wish to pursue a career which not only takes care of our financial needs but also makes them proud, I started learning to program in Navgurukul. While learning Javascript at NavGurukul I also pursued a 4 months program in Hyderabad to learn Javascript and React.
 ## Technical-Skills
-Python, Javascript, HTML, CSS, ReactJs.
+ReactJs,HTML, CSS, Javascript,Python.
 ## Non-Technical-Skills
 Teamwork, Communication, Cooperation, Time Management, Creativity.
 
@@ -24,7 +24,7 @@ A to-do allows you to better manage your time.
 ### Chrome Extension [code](https://github.com/exponentsoftware/Milestone5--ChromeExtension)(Javascript)
 Extensions are small software programs that customize the browsing experience. They enable users to tailor Chrome functionality and behavior to individual needs or preferences.so there I made Notepade  Extensions.
 ### Python Projects [code](https://github.com/mahanor123/python_small_project)(Python)
-Implemented using Python to understand and implement best practices in coding. (KBC-game, Hangman-game, Rock-paper-scissors game)
+Implemented using Python to understand and implement best practices in coding. (KBC, Hangman, Rock paper Scissors game)
 
 
 ## Non-Technical Experience
